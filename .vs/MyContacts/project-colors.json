@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2b04dec-740b-44cb-a881-0eb1bf7fa39f": {
+      "ProjectGuid": "b2b04dec-740b-44cb-a881-0eb1bf7fa39f",
+      "DisplayName": "MyContacts",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

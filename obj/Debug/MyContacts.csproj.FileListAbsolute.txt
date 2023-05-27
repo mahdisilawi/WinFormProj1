@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\Admin\source\repos\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\Admin\source\repos\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\Admin\source\repos\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
